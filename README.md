@@ -4,7 +4,7 @@
 - File to be used locally.
 - This will generate an excel file of all comments (including all replies) for the article requested.
 - All necessary code for workflow is located in single file with comments for easier understanding.
-- 
+
 ## User required inputs:
 - <api_key>
 - <article_url>
