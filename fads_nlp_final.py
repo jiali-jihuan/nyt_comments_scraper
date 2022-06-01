@@ -161,4 +161,4 @@ all_comments_df = all_comments_df.rename(columns={"level_0": "index"})
 all_comments_df.to_excel('all_comments_df.xlsx', encoding = 'utf-8', index=False)
 print('Completed File Export!')
 
-all_comments_df
+#all_comments_df
