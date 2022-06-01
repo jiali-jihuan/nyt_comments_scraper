@@ -11,3 +11,5 @@
 - <article_url>
 
 Due to query limit (10/minute) for the nyt json api , running time will take longer.
+
+<b> Please reference repo when using, thanks! </b>
