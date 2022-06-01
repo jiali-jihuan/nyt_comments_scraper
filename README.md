@@ -7,6 +7,7 @@
 
 ## User required inputs:
 - <api_key>
+-- more info on api_key here: https://developer.nytimes.com/get-started
 - <article_url>
 
 Due to query limit (10/minute) for the nyt json api , running time will take longer.
